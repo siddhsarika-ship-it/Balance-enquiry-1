@@ -4,7 +4,7 @@ Demo crypto wallet page.
 
 ## Account Details
 - Name: Devkishan siddh
-- Balance: ₹840,262 INR
+- Balance: ₹10,30,400 INR
 
 ## How to Deploy on GitHub Pages
 
